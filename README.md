@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsdev55
+- 👋 Hi, I’m @b-soumia
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
